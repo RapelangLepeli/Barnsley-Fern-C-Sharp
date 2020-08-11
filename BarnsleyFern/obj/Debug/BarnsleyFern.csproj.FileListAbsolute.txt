@@ -1,0 +1,9 @@
+C:\Users\Rapelang Lepeli\Desktop\ProjectCode\BarnsleyFern\obj\Debug\BarnsleyFern.csprojAssemblyReference.cache
+C:\Users\Rapelang Lepeli\Desktop\ProjectCode\BarnsleyFern\obj\Debug\BarnsleyFern.CfrmBarnsleyFern.resources
+C:\Users\Rapelang Lepeli\Desktop\ProjectCode\BarnsleyFern\obj\Debug\BarnsleyFern.Properties.Resources.resources
+C:\Users\Rapelang Lepeli\Desktop\ProjectCode\BarnsleyFern\obj\Debug\BarnsleyFern.csproj.GenerateResource.cache
+C:\Users\Rapelang Lepeli\Desktop\ProjectCode\BarnsleyFern\bin\Debug\BarnsleyFern.exe.config
+C:\Users\Rapelang Lepeli\Desktop\ProjectCode\BarnsleyFern\bin\Debug\BarnsleyFern.exe
+C:\Users\Rapelang Lepeli\Desktop\ProjectCode\BarnsleyFern\bin\Debug\BarnsleyFern.pdb
+C:\Users\Rapelang Lepeli\Desktop\ProjectCode\BarnsleyFern\obj\Debug\BarnsleyFern.exe
+C:\Users\Rapelang Lepeli\Desktop\ProjectCode\BarnsleyFern\obj\Debug\BarnsleyFern.pdb
